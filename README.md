@@ -33,9 +33,3 @@ The project uses NLP techniques and Logistic Regression to understand customer o
 
 ## Author
 Chithanoori Manoj
-
-GitHub: [Chithanoorimanoj](https://github.com/Chithanoorimanoj)
-
----
-
-⭐ If you find this project useful, consider giving it a star!
